@@ -1,0 +1,20 @@
+C:\Users\nycdoe\source\repos\WindowsApp2\WindowsApp2\bin\Debug\Free My Chrome.exe.config
+C:\Users\nycdoe\source\repos\WindowsApp2\WindowsApp2\bin\Debug\Free My Chrome.exe
+C:\Users\nycdoe\source\repos\WindowsApp2\WindowsApp2\bin\Debug\Free My Chrome.pdb
+C:\Users\nycdoe\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.Form1.resources
+C:\Users\nycdoe\source\repos\WindowsApp2\WindowsApp2\obj\Debug\Free_My_Chrome.Properties.Resources.resources
+C:\Users\nycdoe\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.csproj.GenerateResource.cache
+C:\Users\nycdoe\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.csproj.CoreCompileInputs.cache
+C:\Users\nycdoe\source\repos\WindowsApp2\WindowsApp2\obj\Debug\Free My Chrome.exe
+C:\Users\nycdoe\source\repos\WindowsApp2\WindowsApp2\obj\Debug\Free My Chrome.pdb
+C:\Users\nycdoe\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.csprojAssemblyReference.cache
+E:\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.csprojAssemblyReference.cache
+E:\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.Form1.resources
+E:\WindowsApp2\WindowsApp2\obj\Debug\Free_My_Chrome.Properties.Resources.resources
+E:\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.csproj.GenerateResource.cache
+E:\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.csproj.CoreCompileInputs.cache
+E:\WindowsApp2\WindowsApp2\bin\Debug\Chrome Policy Editor.exe.config
+E:\WindowsApp2\WindowsApp2\bin\Debug\Chrome Policy Editor.exe
+E:\WindowsApp2\WindowsApp2\bin\Debug\Chrome Policy Editor.pdb
+E:\WindowsApp2\WindowsApp2\obj\Debug\Chrome Policy Editor.exe
+E:\WindowsApp2\WindowsApp2\obj\Debug\Chrome Policy Editor.pdb

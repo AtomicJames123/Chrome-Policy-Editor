@@ -1,0 +1,51 @@
+C:\Users\nycdoe\source\repos\WindowsApp2\WindowsApp2\obj\Release\WindowsApp2.Form1.resources
+C:\Users\nycdoe\source\repos\WindowsApp2\WindowsApp2\obj\Release\WindowsApp2.csproj.GenerateResource.cache
+C:\Users\nycdoe\source\repos\WindowsApp2\WindowsApp2\obj\Release\WindowsApp2.csproj.CoreCompileInputs.cache
+C:\Users\nycdoe\source\repos\WindowsApp2\WindowsApp2\bin\Release\Free My Chrome.exe.config
+C:\Users\nycdoe\source\repos\WindowsApp2\WindowsApp2\bin\Release\Free My Chrome.exe
+C:\Users\nycdoe\source\repos\WindowsApp2\WindowsApp2\bin\Release\Free My Chrome.pdb
+C:\Users\nycdoe\source\repos\WindowsApp2\WindowsApp2\obj\Release\Free_My_Chrome.Properties.Resources.resources
+C:\Users\nycdoe\source\repos\WindowsApp2\WindowsApp2\obj\Release\Free My Chrome.exe
+C:\Users\nycdoe\source\repos\WindowsApp2\WindowsApp2\obj\Release\Free My Chrome.pdb
+C:\Users\nycdoe\source\repos\WindowsApp2\WindowsApp2\obj\Release\WindowsApp2.csprojAssemblyReference.cache
+E:\WindowsApp2\WindowsApp2\obj\Release\WindowsApp2.Form1.resources
+E:\WindowsApp2\WindowsApp2\obj\Release\Free_My_Chrome.Properties.Resources.resources
+E:\WindowsApp2\WindowsApp2\obj\Release\WindowsApp2.csproj.GenerateResource.cache
+E:\WindowsApp2\WindowsApp2\obj\Release\WindowsApp2.csproj.CoreCompileInputs.cache
+E:\WindowsApp2\WindowsApp2\bin\Release\Chrome Policy Editor.exe.config
+E:\WindowsApp2\WindowsApp2\bin\Release\Chrome Policy Editor.exe
+E:\WindowsApp2\WindowsApp2\bin\Release\Chrome Policy Editor.pdb
+E:\WindowsApp2\WindowsApp2\obj\Release\WindowsApp2.csprojAssemblyReference.cache
+E:\WindowsApp2\WindowsApp2\obj\Release\Chrome Policy Editor.exe
+E:\WindowsApp2\WindowsApp2\obj\Release\Chrome Policy Editor.pdb
+E:\Chrome Policy Editor\WindowsApp2\bin\Release\Chrome Policy Editor.exe.config
+E:\Chrome Policy Editor\WindowsApp2\bin\Release\Chrome Policy Editor.exe
+E:\Chrome Policy Editor\WindowsApp2\bin\Release\Chrome Policy Editor.pdb
+E:\Chrome Policy Editor\WindowsApp2\obj\Release\WindowsApp2.csprojAssemblyReference.cache
+E:\Chrome Policy Editor\WindowsApp2\obj\Release\WindowsApp2.Form1.resources
+E:\Chrome Policy Editor\WindowsApp2\obj\Release\Free_My_Chrome.Properties.Resources.resources
+E:\Chrome Policy Editor\WindowsApp2\obj\Release\WindowsApp2.csproj.GenerateResource.cache
+E:\Chrome Policy Editor\WindowsApp2\obj\Release\WindowsApp2.csproj.CoreCompileInputs.cache
+E:\Chrome Policy Editor\WindowsApp2\obj\Release\Chrome Policy Editor.exe
+E:\Chrome Policy Editor\WindowsApp2\obj\Release\Chrome Policy Editor.pdb
+D:\Chrome Policy Editor\WindowsApp2\bin\Release\Chrome Policy Editor.exe.config
+D:\Chrome Policy Editor\WindowsApp2\bin\Release\Chrome Policy Editor.exe
+D:\Chrome Policy Editor\WindowsApp2\bin\Release\Chrome Policy Editor.pdb
+D:\Chrome Policy Editor\WindowsApp2\obj\Release\WindowsApp2.csprojAssemblyReference.cache
+D:\Chrome Policy Editor\WindowsApp2\obj\Release\WindowsApp2.Form1.resources
+D:\Chrome Policy Editor\WindowsApp2\obj\Release\Free_My_Chrome.Properties.Resources.resources
+D:\Chrome Policy Editor\WindowsApp2\obj\Release\WindowsApp2.csproj.GenerateResource.cache
+D:\Chrome Policy Editor\WindowsApp2\obj\Release\WindowsApp2.csproj.CoreCompileInputs.cache
+D:\Chrome Policy Editor\WindowsApp2\obj\Release\Chrome Policy Editor.exe
+D:\Chrome Policy Editor\WindowsApp2\obj\Release\Chrome Policy Editor.pdb
+E:\Chrome Policy Editor V2\WindowsApp2\bin\Release\Chrome Policy Editor.exe.config
+E:\Chrome Policy Editor V2\WindowsApp2\bin\Release\Chrome Policy Editor.exe
+E:\Chrome Policy Editor V2\WindowsApp2\bin\Release\Chrome Policy Editor.pdb
+E:\Chrome Policy Editor V2\WindowsApp2\obj\Release\WindowsApp2.csprojAssemblyReference.cache
+E:\Chrome Policy Editor V2\WindowsApp2\obj\Release\WindowsApp2.Form1.resources
+E:\Chrome Policy Editor V2\WindowsApp2\obj\Release\Free_My_Chrome.Properties.Resources.resources
+E:\Chrome Policy Editor V2\WindowsApp2\obj\Release\WindowsApp2.csproj.GenerateResource.cache
+E:\Chrome Policy Editor V2\WindowsApp2\obj\Release\WindowsApp2.csproj.CoreCompileInputs.cache
+E:\Chrome Policy Editor V2\WindowsApp2\obj\Release\Chrome Policy Editor.exe
+E:\Chrome Policy Editor V2\WindowsApp2\obj\Release\Chrome Policy Editor.pdb
+E:\Chrome Policy Editor V2\WindowsApp2\obj\Release\WindowsApp2.csproj.ResolveComReference.cache
