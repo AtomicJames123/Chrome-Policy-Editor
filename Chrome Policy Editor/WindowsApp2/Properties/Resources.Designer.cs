@@ -63,9 +63,9 @@ namespace Free_My_Chrome.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Byte[].
         /// </summary>
-        internal static byte[] Chrome_Policy_Editor_User_Instruction_Manual {
+        internal static byte[] Manual {
             get {
-                object obj = ResourceManager.GetObject("Chrome_Policy_Editor_User_Instruction_Manual", resourceCulture);
+                object obj = ResourceManager.GetObject("Manual", resourceCulture);
                 return ((byte[])(obj));
             }
         }

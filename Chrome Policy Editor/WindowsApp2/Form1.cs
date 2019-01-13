@@ -11,6 +11,7 @@ using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using Free_My_Chrome.Properties;
 using Microsoft.Office.Interop.Word;
 using Microsoft.Vbe.Interop;
 using Microsoft.Win32;
@@ -31,8 +32,6 @@ namespace WindowsApp2
             InitializeComponent();
             this.KeyPreview = true;
         } // Constructor
-
-
 
         private void checkedListBox2_SelectedIndexChanged(object sender, EventArgs e)
         {
@@ -128,7 +127,7 @@ namespace WindowsApp2
                 MessageBox.Show("Settings have been restored to default! Chrome will now RESTART for the changes to take effect!");
                 RestartChrome();
 
-            System.Windows.Forms.Application.Exit();
+                System.Windows.Forms.Application.Exit();
             
 
         } // RESET BUTTON
@@ -182,15 +181,42 @@ namespace WindowsApp2
 
         private void button1_Click_1(object sender, EventArgs e)
         {
-            Process process = new Process();
-
             try
             {
-                Process.Start(@"E:\Chrome Policy Editor V2\WindowsApp2\Resources\Chrome Policy Editor User Instruction Manual.docx");
-            }
+                using (FileStream fileStream = new FileStream(@"C:\Help.docx", FileMode.Create, FileAccess.Write))
+                {
+                    using (BinaryWriter binaryWriter = new BinaryWriter(fileStream))
+                    {
+                        binaryWriter.Write(Resources.Manual);
+                        Process.Start(@"C:\Help.docx");
+                    }
+
+                }
+
+            }                   
             catch
             {
                 MessageBox.Show("Could not find help documentation");
+            }
+
+            Thread.Sleep(10000);
+
+            try
+            {
+                DialogResult HelpDialog = MessageBox.Show(new Form { TopMost = true }, "Press YES after you close the help file if you would like to delete it from your local computer", "Help File ALERT", MessageBoxButtons.YesNo);
+                if (HelpDialog == DialogResult.Yes)
+                {
+                    File.Delete(@"C:\Help.docx");
+                }
+                if (HelpDialog == DialogResult.No)
+                {
+                    //Do nothing
+                }
+            }
+            catch
+            {
+                MessageBox.Show("Could not delete file since it was open. The file path if you would like to manually delete the help file is: " + @"C:\Help.docx");
+
             }
         }
     }
