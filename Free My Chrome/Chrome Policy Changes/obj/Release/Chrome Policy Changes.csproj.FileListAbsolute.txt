@@ -1,0 +1,11 @@
+C:\Users\Coreslide\Documents\Visual Studio 2017\Projects\Chrome Policy Changes\Chrome Policy Changes\obj\Release\Chrome_Policy_Changes.AboutBox1.resources
+C:\Users\Coreslide\Documents\Visual Studio 2017\Projects\Chrome Policy Changes\Chrome Policy Changes\obj\Release\Chrome_Policy_Changes.Form1.resources
+C:\Users\Coreslide\Documents\Visual Studio 2017\Projects\Chrome Policy Changes\Chrome Policy Changes\obj\Release\Chrome_Policy_Changes.Properties.Resources.resources
+C:\Users\Coreslide\Documents\Visual Studio 2017\Projects\Chrome Policy Changes\Chrome Policy Changes\obj\Release\Chrome Policy Changes.csproj.GenerateResource.cache
+C:\Users\Coreslide\Documents\Visual Studio 2017\Projects\Chrome Policy Changes\Chrome Policy Changes\obj\Release\Chrome Policy Changes.csproj.CoreCompileInputs.cache
+C:\Users\Coreslide\Documents\Visual Studio 2017\Projects\Chrome Policy Changes\Chrome Policy Changes\obj\Release\Chrome Policy Changes.csprojAssemblyReference.cache
+C:\Users\Coreslide\Documents\Visual Studio 2017\Projects\Chrome Policy Changes\Chrome Policy Changes\bin\Release\Free My Chrome.exe.config
+C:\Users\Coreslide\Documents\Visual Studio 2017\Projects\Chrome Policy Changes\Chrome Policy Changes\bin\Release\Free My Chrome.exe
+C:\Users\Coreslide\Documents\Visual Studio 2017\Projects\Chrome Policy Changes\Chrome Policy Changes\bin\Release\Free My Chrome.pdb
+C:\Users\Coreslide\Documents\Visual Studio 2017\Projects\Chrome Policy Changes\Chrome Policy Changes\obj\Release\Free My Chrome.exe
+C:\Users\Coreslide\Documents\Visual Studio 2017\Projects\Chrome Policy Changes\Chrome Policy Changes\obj\Release\Free My Chrome.pdb
